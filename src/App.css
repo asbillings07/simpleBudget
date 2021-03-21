@@ -1,3 +1,21 @@
+:root {
+  --pink: #fae2e2;
+  --dark-red: #d84040;
+  --light-red: #f4c5c5;
+  --light-yellow: #fff5db;
+  --black: #000000;
+  --white: #fff;
+  --yellow: #ffebb6;
+  --light-green1: #dff0d8;
+  --light-green2: #d6e9c6;
+  --green: #3c763d;
+
+}
+
+
+
+
+
 .App {
   text-align: center;
 }
